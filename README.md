@@ -2,8 +2,8 @@
 This repository shows a collection of certificates and diplomas received as well as resume highlights.
 
 Resume Highlights:
-- Deep understanding of software design using Python and C.
-- Deep Learning background and ability to design, iterate and improve deep learning models.
+- In depth understanding of software design principles using Python, C and SQL.
+- Ability to design, iterate and improve Deep Learning models using keras and pytorch along with other python tools.
 
 Projects completed (code located in private repositories):
 - Automated benchmark collection processes and persisted that data into the Enterprise Data Warehouse(EDW), by using various python libraries and selenium.
