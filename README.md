@@ -2,6 +2,7 @@
 This repository shows a collection of certificates and diplomas received as well as resume highlights.
 
 Resume Highlights:
+- Bachelor of Science in Computer Engineering from Illinois Tech. 
 - In depth understanding of software design principles using Python, C and SQL.
 - Ability to design, iterate and improve Deep Learning models using keras and pytorch along with other python tools.
 
