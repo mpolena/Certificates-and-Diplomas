@@ -5,7 +5,8 @@ This repository shows a collection of certificates and diplomas received as well
 - Bachelor of Science in Computer Engineering from Illinois Tech. 
 - In depth understanding of software design principles working with Python, C, SQL and other languages.
 - Ability to design, iterate and improve Deep Learning Models using keras and pytorch.
-- Design tools that assist in automation and streamlining of recurring processes.
+- Design tools that assist in automation and streamlining of recurring p
+rocesses.
 
 ## Projects completed SRALab (code located in private repositories):
 - Automated benchmark collection processes and persisted that data into the Enterprise Data Warehouse(EDW), by using Selenium and various other Python libraries.
